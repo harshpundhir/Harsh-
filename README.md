@@ -37,3 +37,11 @@
 - [FaunaDB](https://fauna.com/)
 
 </details>
+
+<details>
+<summary>Learning Resources</summary>
+
+- [LevelUP](https://levelup.video/tutorials/better-javascript) - Frontend mainly (github + figma) `free`
+
+
+</details>
