@@ -10,6 +10,7 @@
 
 - [Figma](https://www.figma.com/)
 - [Adobe XD](https://www.adobe.com/products/xd.html)
+- `design tools above, followed by UI libraries`
 - [Sketch](https://www.sketch.com/)
 - [DaisyUI](https://daisyui.com/) - Tailwind CSS Components (Svelte Yes)
 - [Tailwind CSS](https://tailwindcss.com/)
