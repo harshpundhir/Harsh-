@@ -43,6 +43,6 @@
 
 - [LevelUP](https://levelup.video/tutorials/better-javascript) - Frontend mainly (github + figma) `free`
 - [Advent Svelte](https://advent.sveltesociety.dev/) - Svelte - `free`
-
+    - Advent of code exists, Advent of TS too ! 
 
 </details>
