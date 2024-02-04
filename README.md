@@ -30,3 +30,10 @@
 
 </details>
 
+
+<details>
+<summary>Backend</summary>
+
+- [FaunaDB](https://fauna.com/)
+
+</details>
