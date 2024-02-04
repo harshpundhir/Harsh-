@@ -42,6 +42,7 @@
 <summary>Learning Resources</summary>
 
 - [LevelUP](https://levelup.video/tutorials/better-javascript) - Frontend mainly (github + figma) `free`
+- [Advent Svelte](https://advent.sveltesociety.dev/) - Svelte - `free`
 
 
 </details>
