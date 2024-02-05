@@ -3,7 +3,9 @@
 <details>
 <summary>DEV_OPS</summary>
 
-- [Linode](https://www.linode.com/)
+- [Linode](https://www.linode.com/) - VM linux machine
+- [Render](https://render.com/) - Python + Frontend + Backend
+- [Zeet](https://zeet.co/pricing) - Python + F + B
 
 </details>
 
